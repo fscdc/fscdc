@@ -1,6 +1,6 @@
 ### Hi Bro👋 It's FSC from NKU CS
 - 🔭 I am currently an undergraduate student at Nankai University, majoring in CS and minoring in Actuarial Science
-- 👯 I’m looking to collaborate on ML & AI & Quant
+- 👯 I’m looking to collaborate on ML & AI & Data & Quant
 - 📫 How to reach me: vx(starks888) Or email(fscdyx888@163.com)
 
 <!--
