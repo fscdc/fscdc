@@ -2,7 +2,7 @@
 - 🔭 I am currently an undergraduate student at Nankai University, majoring in CS and minoring in Actuarial Science
 - 👯 I’m looking to collaborate on ML & AI & Data & Quant
 - 📫 How to reach me: vx(starks888) Or email(fscdyx888@163.com)
-- 💬 Know me more at my personal [website](fscdc.github.io)
+- 💬 Know me more at my personal ![website](fscdc.github.io)
 <!--
 **fscdc/fscdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
