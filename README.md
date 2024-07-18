@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![FSC's github stats](https://github-readme-stats.vercel.app/api?username=fscdc&show_icons=true&theme=tokyonight) 
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fscdc&layout=compact&hide=shell,tex,makefile,roff,html,m4,objective-c,objective-c%2B%2B&theme=dark)
 -->
