@@ -1,8 +1,10 @@
 ### Hi Bro👋 It's Sicheng Feng (Oliver Feng) from NKU CS
 - 🔭 I am currently an undergraduate student at Nankai University, majoring in CS and minoring in Actuarial Science
-- 👯 I’m looking to collaborate on ML & AI & Data & Quant
+- 👯 I’m looking to collaborate on ML & AI & LLM/MLLM
 - 📫 How to reach me: vx(starks888) Or email(fscnkucs@gmail.com)
 - 💬 Know me more at my personal [website](https://fscdc.github.io)
+
+![FSC's github stats](https://github-readme-stats.vercel.app/api?username=fscdc&show_icons=true&theme=tokyonight) 
 <!--
 **fscdc/fscdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![FSC's github stats](https://github-readme-stats.vercel.app/api?username=fscdc&show_icons=true&theme=tokyonight) 
 <!--
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fscdc&show-other-skills=true" width="auto"></img>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fscdc&layout=compact&hide=shell,tex,makefile,roff,html,m4,objective-c,objective-c%2B%2B&theme=dark)
