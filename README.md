@@ -1,6 +1,6 @@
 ### Hi Bro👋 It's Sicheng Feng (Oliver Feng) from NKU CS
 - 🔭 I am currently an undergraduate student at Nankai University, majoring in CS and minoring in Actuarial Science
-- 👯 I’m looking to collaborate on ML & AI & LLM/MLLM
+- 👯 I’m looking to collaborate on ML & AI & LLM/MLLM & Ai4Bio
 - 📫 How to reach me: vx(starks888) Or email(fscnkucs@gmail.com)
 - 💬 Know me more at my personal [website](https://fscdc.github.io)
 
