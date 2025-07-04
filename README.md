@@ -1,25 +1,8 @@
-### Hi Bro👋 It's Sicheng Feng (Oliver Feng) from NKU CS
-- 🔭 I am currently an undergraduate student at Nankai University, majoring in CS.
-- 👯 I’m looking to collaborate on Efficient AI & LLM/MLLM reasoning & Ai4Bio.
-- 📫 How to reach me: email(fscnkucs@gmail.com)
-- 💬 Know me more at my personal [website](https://fscdc.github.io)
+I am currently an undergraduate student in Nankai University, majoring in Computer Science. I am broadly interested in model compression (e.g., pruning, efficient LLMs) and reasoning with LLMs/MLLMs (efficiency, visual reasoning). I have worked with [Prof. Huan Wang](https://huanwang.tech/) at the [ENCODE Lab](https://encode-lab-ai.github.io/), Westlake University, and with [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) at the [xML Lab](https://sites.google.com/view/xml-nus), National University of Singapore. These experiences have shaped my research interests and allowed me to work closely with leading researchers in the field.
+
+[![Personal Page](https://img.shields.io/badge/Personal%20Page-Visit-blueviolet)](https://fscdc.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=v8z7VvwAAAAJ&hl=en)
+[![Page Views](https://komarev.com/ghpvc/?username=fscdc&label=Page%20Views&color=ad2352)](https://github.com/fscdc)
 
 ![FSC's github stats](https://github-readme-stats.vercel.app/api?username=fscdc&show_icons=true&theme=tokyonight) 
-<!--
-**fscdc/fscdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fscdc&show-other-skills=true" width="auto"></img>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fscdc&layout=compact&hide=shell,tex,makefile,roff,html,m4,objective-c,objective-c%2B%2B&theme=dark)
--->
